@@ -1,0 +1,33 @@
+.inline-block{
+	display: inline-block;
+}
+
+.lock-buttons{
+	padding:2px;
+	color:#111111;
+	background-color: 'blue';
+	border-radius: 5px;
+	text-align:center;
+}
+.inputScreen,.validationScreen{
+	width:50%;
+	display: inline-block;
+	vertical-align: top;
+}
+.screen-container{
+	width: 50%;
+	margin: 0 auto;
+	margin-top: 10%;
+}
+.validate-button{
+	color: #fff;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+    padding: 10px;
+    display: block;
+    margin: 0 auto;
+    width:33%;
+}
+.button-container{
+	margin-top: 10%;
+}
